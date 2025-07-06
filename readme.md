@@ -57,23 +57,23 @@ Apex is a responsive web-based society management platform built to streamline r
 
 3. Open index.html in browser or deploy via GitHub Pages/Firebase Hosting2
 
-## 📂 Project Structure
-   .
-   ├── .vscode/                 # VS Code settings (optional)
-   ├── assets/                 # Static assets like fonts, icons, or videos
-   ├── data/                   # Optional data files (JSON or others)
-   ├── images/                 # Image files used in the UI
-   ├── scripts/                # JavaScript files
-   ├── stylesheets/            # CSS styles
-   ├── contact.html            # Contact page
-   ├── home-u.html             # Home page for user
-   ├── index.html              # Landing page
-   ├── login.html              # Login page
-   ├── sign-up.html            # Sign-up selection or main registration page
-   ├── sign-up-user.html       # Sign-up form for users
-   ├── package.json            # Project metadata (for NPM or dependencies)
-   ├── package-lock.json       # Dependency lock file
-   └── readme.md               # Project documentation
+### 📂 Project Structure
+      .
+      ├── .vscode/                 # VS Code settings (optional)
+      ├── assets/                 # Static assets like fonts, icons, or videos
+      ├── data/                   # Optional data files (JSON or others)
+      ├── images/                 # Image files used in the UI
+      ├── scripts/                # JavaScript files
+      ├── stylesheets/            # CSS styles
+      ├── contact.html            # Contact page
+      ├── home-u.html             # Home page for user
+      ├── index.html              # Landing page
+      ├── login.html              # Login page
+      ├── sign-up.html            # Sign-up selection or main registration page
+      ├── sign-up-user.html       # Sign-up form for users
+      ├── package.json            # Project metadata (for NPM or dependencies)
+      ├── package-lock.json       # Dependency lock file
+      └── readme.md               # Project documentation
 
 ## 📌 Future Improvements
     Admin analytics dashboard
