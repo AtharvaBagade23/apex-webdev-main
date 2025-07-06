@@ -59,22 +59,22 @@ Apex is a responsive web-based society management platform built to streamline r
 
 ## 📂 Project Structure
 
-    .
-    ├── .vscode/                 # VS Code settings (optional)
-    ├── assets/                 # Static assets like fonts, icons, or videos
-    ├── data/                   # Optional data files (JSON or others)
-    ├── images/                 # Image files used in the UI
-    ├── scripts/                # JavaScript files
-    ├── stylesheets/            # CSS styles
-    ├── contact.html            # Contact page
-    ├── home-u.html             # Home page for user
-    ├── index.html              # Landing page
-    ├── login.html              # Login page
-    ├── sign-up.html            # Sign-up selection or main registration page
-    ├── sign-up-user.html       # Sign-up form for users
-    ├── package.json            # Project metadata (for NPM or dependencies)
-    ├── package-lock.json       # Dependency lock file
-    └── readme.md               # Project documentation
+.
+├── .vscode/                 # VS Code settings (optional)
+├── assets/                 # Static assets like fonts, icons, or videos
+├── data/                   # Optional data files (JSON or others)
+├── images/                 # Image files used in the UI
+├── scripts/                # JavaScript files
+├── stylesheets/            # CSS styles
+├── contact.html            # Contact page
+├── home-u.html             # Home page for user
+├── index.html              # Landing page
+├── login.html              # Login page
+├── sign-up.html            # Sign-up selection or main registration page
+├── sign-up-user.html       # Sign-up form for users
+├── package.json            # Project metadata (for NPM or dependencies)
+├── package-lock.json       # Dependency lock file
+└── readme.md               # Project documentation
 
 ## 📌 Future Improvements
     Admin analytics dashboard
@@ -85,4 +85,4 @@ Apex is a responsive web-based society management platform built to streamline r
 
     Push notifications using FCM
 
-## Developed with Love ❤️
+ Developed with Love ❤️
