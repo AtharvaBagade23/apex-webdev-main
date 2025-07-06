@@ -30,7 +30,7 @@ Apex is a responsive web-based society management platform built to streamline r
 ## 📸 Screenshots
 
 ![Landing Screen](images/dash.png)
-![Dashboard](images/dash.png)
+![Dashboard](images/main.png)
 ---
 
 ## 🚀 Getting Started
